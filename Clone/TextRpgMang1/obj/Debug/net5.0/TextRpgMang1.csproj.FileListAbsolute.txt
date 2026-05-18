@@ -1,0 +1,16 @@
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\bin\Debug\net5.0\TextRpgMang1.exe
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\bin\Debug\net5.0\TextRpgMang1.deps.json
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\bin\Debug\net5.0\TextRpgMang1.runtimeconfig.json
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\bin\Debug\net5.0\TextRpgMang1.runtimeconfig.dev.json
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\bin\Debug\net5.0\TextRpgMang1.dll
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\bin\Debug\net5.0\ref\TextRpgMang1.dll
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\bin\Debug\net5.0\TextRpgMang1.pdb
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.csproj.AssemblyReference.cache
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.AssemblyInfoInputs.cache
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.AssemblyInfo.cs
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.csproj.CoreCompileInputs.cache
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.dll
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\ref\TextRpgMang1.dll
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.pdb
+C:\Users\이선호\Desktop\test\c#\TestRpgmang\TextRpgMang1\TextRpgMang1\obj\Debug\net5.0\TextRpgMang1.genruntimeconfig.cache
